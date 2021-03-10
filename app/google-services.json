@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "193092697069",
+    "project_id": "triponeer-33427",
+    "storage_bucket": "triponeer-33427.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:193092697069:android:6b58e728255fa28e62c5e4",
+        "android_client_info": {
+          "package_name": "com.app.triponeer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "193092697069-dkkh4goagvnfao5mqcjiqgdbnhps4n95.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.triponeer",
+            "certificate_hash": "7a46b933202def97bda4a7260bdc7e88ccd821bf"
+          }
+        },
+        {
+          "client_id": "193092697069-3s0q8gnbpqh60betdqk5tk0el6pk9rpu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAj1XWl1WRzpO5r6haDzQb6oeK3804OgCg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "193092697069-3s0q8gnbpqh60betdqk5tk0el6pk9rpu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,74 @@
+<resources>
+    <string name="app_name">Triponeer</string>
+    <string name="logo">Logo</string>
+    <string name="email">Email</string>
+    <string name="pass">Password</string>
+    <string name="confirm_pass">Confirm Password</string>
+    <string name="edit_profile">Edit Profile</string>
+    <string name="trip_name">Trip Name</string>
+    <string name="trip_description">Trip Description</string>
+    <string name="source">Source</string>
+    <string name="destination">Destination</string>
+    <string name="source_hint">e.g. Mansoura University</string>
+    <string name="destination_hint">e.g. ITI Smart Village</string>
+    <string name="trip_name_hint">e.g. Dahab Roadtrip</string>
+    <string name="trip_description_hint">e.g. going to the amazing blue hole</string>
+    <string name="time">Time</string>
+    <string name="date">Date</string>
+    <string name="time_default">6:45 AM</string>
+    <string name="date_default">15-10-2021</string>
+    <string name="save">Save</string>
+    <string name="notes">Notes</string>
+    <string name="note_hint">e.g. Buy coffee</string>
+    <string name="repeat">Repeat</string>
+    <string-array name="repeat">
+        <item>None</item>
+        <item>Daily</item>
+        <item>Weekly</item>
+        <item>Monthly</item>
+    </string-array>
+    <string name="saturday">Saturday</string>
+    <string name="sunday">Sunday</string>
+    <string name="monday">Monday</string>
+    <string name="tuesday">Tuesday</string>
+    <string name="wednesday">Wednesday</string>
+    <string name="thursday">Thursday</string>
+    <string name="friday">Friday</string>
+    <string name="apply">Apply</string>
+    <string name="certain_days">Repeat Days</string>
+    <string name="repeat_on">Repeat on</string>
+    <string name="note">Note</string>
+    <string name="name_hint">Full Name</string>
+    <string name="email_hint">myemail@gmail.com</string>
+    <string name="password_hint">New Password</string>
+    <string name="confirm_password_hint">Confirm New Password</string>
+    <string name="places_cancel">Cancel</string>
+    <string name="logout">Logout</string>
+    <string name="source_column">Source:</string>
+    <string name="destination_column">Destination:</string>
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+    <string name="status">Status:</string>
+    <string name="distance">Distance:</string>
+    <string name="confirm_delete">Are you sure ?</string>
+    <string name="login">Log In</string>
+    <string name="create_new_account">Create New Triponeer Account</string>
+    <string name="login_with_facebook">Login with Facebook</string>
+    <string name="login_with_google">Login with Google</string>
+    <string name="type">Type:</string>
+    <string name="type_">Type</string>
+    <string name="forget_password">Forget Password ?</string>
+    <string name="reset_password">Reset Password</string>
+    <string name="edtCurrentPassword">Current Password</string>
+    <string-array name="type">
+        <item>One Way</item>
+        <item>Round</item>
+    </string-array>
+    <string name="facebook_app_id">1873372106151098</string>
+    <string name="fb_login_protocol_scheme">fb1873372106151098</string>
+    <string name="current_password">Current Password</string>
+    <string name="web_client_id">AIzaSyAj1XWl1WRzpO5r6haDzQb6oeK3804OgCg</string>
+    <string name="signup">Signup</string>
+    <string name="done">Done</string>
+    <string name="snooze">Snooze</string>
+</resources>

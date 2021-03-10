@@ -1,0 +1,20 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.Triponeer" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@null</item>
+        <item name="colorPrimaryVariant">@null</item>
+        <item name="colorOnPrimary">@null</item>
+        <item name="colorAccent">@color/colorPrimary</item>
+        <item name="android:textColorHint">@color/gray</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@null</item>
+        <item name="colorSecondaryVariant">@null</item>
+        <item name="colorOnSecondary">@null</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor">@color/white</item>
+        <item name="android:windowLightStatusBar">true</item>
+        <item name="android:windowLightNavigationBar" tools:targetApi="Q">true</item>
+    </style>
+
+</resources>
